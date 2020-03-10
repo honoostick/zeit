@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[68],{E6Ks:function(e,s,t){"use strict";Object.defineProperty(s,"__esModule",{value:!0}),s.default=void 0;var c={namespace:"registerSuccess",state:{provinces:[],cities:[],list:[]},effects:{},reducers:{}};s.default=c}}]);
